@@ -19,4 +19,4 @@ Once the perceptrons have been trained (in other words, once the perceptrons for
 [​Hebb Net example​]: https://gist.github.com/ProfAvery/01fc74d75accbe3c1926550a2ca05e4d
 [perceptron learning algorithm​]: https://en.wikipedia.org/wiki/Perceptron#Learning_algorithm
 [Matplotlib]: https://matplotlib.org
-[NumPy]: https://numpy.org
+[​NumPy​]: https://numpy.org
