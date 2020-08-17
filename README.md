@@ -1,5 +1,4 @@
 # Perceptron
-Project 1 for Artificial Neural Networks
 
 The file `​dataset.py​` contains the letters A through Z as 5-by-7 dot-matrix fonts, in a format similar to the [​Hebb Net example​] for character recognition. There are two different fonts, one for training and one for test.
 [​NumPy​] is to implement vector operations such as dot product, and [Matplotlib] library to generate plots.
